@@ -5,7 +5,7 @@ LABEL maintainer "blakeb@blakeshome.com"
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
 # Add Bashio 
-ARG BASHIO_VERSION=0.6.0
+ARG BASHIO_VERSION=0.9.0
 RUN apt-get update && apt-get install -y --no-install-recommends \
         jq \
         curl \
