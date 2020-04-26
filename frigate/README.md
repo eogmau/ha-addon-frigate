@@ -8,7 +8,7 @@ Uses OpenCV and Tensorflow to perform realtime object detection locally for IP c
 
 This repository contains two add-ons:  
 frigate: uses the current production release 0.5.0  
-frigate-beta: uses the current beta release 0.4.0-beta
+frigate-beta: uses the current beta release 0.5.0-rc4
 
 ## Installation
 
