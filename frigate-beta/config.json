@@ -12,7 +12,7 @@
     ],
     "full_access": true,
     "tmpfs": [
-        "size":"512m"
+        "size=512m"
     ],
     "hassio_api": false,
     "hassio_role": "default",
