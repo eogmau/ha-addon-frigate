@@ -15,7 +15,7 @@ frigate-beta: uses the current beta release 0.5.0-rc4
 Follow these steps to get the add-on installed on your system:
 
 1. Navigate in your Home Assistant frontend to **Supervisor** -> **Add-on Store**.
-2. Add the following repository https://github.com/mories76/ha-addon-frigate
+2. Add the following repository https://github.com/eogmau/ha-addon-frigate
 2. Find the "frigate" add-on and click it.
 3. Click on the "INSTALL" button.
 
